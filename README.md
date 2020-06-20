@@ -1,7 +1,7 @@
 # Parameter Tuning Network
-This repository contains the MATLAB implementation of the regularization parameter tuning framework for model-based image reconstruction proposed in the paper "Fast Automatic Parameter Selection for MRI reconstruction". 
+This repository contains the MATLAB implementation of the regularization parameter tuning framework for model-based image reconstruction proposed in the paper "Fast Automatic Parameter Selection for MRI Reconstruction". 
 
-In the paper we have shown the tuning of two regularization parameters of the
+In the paper, we have shown the tuning of two regularization parameters of the
 TLMRI reconstruction algorithm (we tune 'error threshold' parameter in the first and last TL iterations). The code of the TLMRI algorithm is available at the 'transform learning and applications software' package available at 
 http://transformlearning.csl.illinois.edu/software/. The downloaded TLMRI reconstruction code should be put in the TLMRI directory given here. 
 
