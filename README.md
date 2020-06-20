@@ -3,7 +3,7 @@ This repository contains the MATLAB implementation of the regularization paramet
 
 In the paper we have shown the tuning of two regularization parameters of the
 TLMRI reconstruction algorithm (we tune 'error threshold' parameter in the first and last TL iterations). The code of the TLMRI algorithm is available at the 'transform learning and applications software' package available at 
-'http://transformlearning.csl.illinois.edu/software/. The downloaded TLMRI reconstruction code should be put in the TLMRI directory given here. 
+http://transformlearning.csl.illinois.edu/software/. The downloaded TLMRI reconstruction code should be put in the TLMRI directory given here. 
 
 The train and test code for the network have been kept in two separate directories. 
 For training, run the 'main_train.m' script
