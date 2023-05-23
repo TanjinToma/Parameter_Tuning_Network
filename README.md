@@ -1,4 +1,4 @@
-# Parameter Tuning Network
+# Fast Automatic Parameter Selection for MRI Reconstruction
 This repository contains the MATLAB implementation of the regularization parameter tuning framework for model-based image reconstruction proposed in the paper "Fast Automatic Parameter Selection for MRI Reconstruction". 
 
 In the paper, we have shown the tuning of two regularization parameters of the
